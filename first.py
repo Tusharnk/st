@@ -6,7 +6,7 @@ import sys
 
 def main:
 
-	print "tushar"
+	print "tushar kanavaliS"
 
 
 
